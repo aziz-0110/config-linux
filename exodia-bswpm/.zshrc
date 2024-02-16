@@ -182,16 +182,16 @@ alias eDEX-UI="eDEX-UI-Linux-x86_64.AppImage"
 # ------------ Costum -------------------------
 
 alias rr="ranger"
-alias sdb1="sudo mount /dev/sdb1 /home/gritz/Public/sdb1; cd /home/gritz/Public/sdb1; rr" 
-alias sdb2="sudo mount /dev/sdc1 /home/gritz/Public/sdb2; cd /home/gritz/Public/sdb2; rr" 
-alias sdc1="sudo mount /dev/sdc1 /home/gritz/Public/sdc1; cd /home/gritz/Public/sdb1; rr" 
+alias sdb1="sudo mount /dev/sdb1 ~/Public/sdb1; cd ~/Public/sdb1; rr" 
+alias sdb2="sudo mount /dev/sdc1 ~/Public/sdb2; cd ~/Public/sdb2; rr" 
+alias sdc1="sudo mount /dev/sdc1 ~/Public/sdc1; cd ~/Public/sdb1; rr" 
 aalias usdb1="sudo umount /dev/sdb1"
 alias usdb2="sudo umount /dev/sdb2"
 alias usdc1="sudo umount /dev/sdc1"
-lias aa='cd /home/gritz/Public/sdb1/あにめ/;rr'
-alias js='cd /home/gritz/Public/sdb1/Webdev/WebDev/Materi/"roundmap"/;rr'
-alias dv='cd /home/gritz/Public/sdb1/Webdev/WebDev;rr'
-alias mm='cd /home/gritz/Public/sdb1/musik/にっぽン;rr'
+alias aa='cd ~/Public/sdb1/あにめ/;rr'
+alias js='cd ~/home/gritz/Public/sdb1/Webdev/WebDev/Materi/"roundmap"/;rr'
+alias dv='cd ~/Public/sdb1/Webdev/WebDev;rr'
+alias mm='cd ~/Public/sdb1/musik/にっぽン;rr'
 alias nd='node'
 alias lamppst='sudo /opt/lampp/lampp stop'
 alias lampps='sudo /opt/lampp/lampp start'
